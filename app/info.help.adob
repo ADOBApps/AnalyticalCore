@@ -1,0 +1,52 @@
+IF ($PATH === "acxel@ADOB:~/DEV/PHP/slim/AnalyticalCore"){
+	RUN "php -S localhost:8080 -t public"; ---> RUN server
+}
+
+Solido <---/---> Iones disueltos  =====> kps
+A_{a}B_{b} <---/---> (a)A + (b)B  =====> kps = [A]^{a}[B]^{b} = kps{C}
+
+Thermodynamic kps
+X_{x}Y_{y} <---/---> (x)X + (y)Y  =====> kps = _a_{X}^{x}*_a_{Y}^{y} = ([X]*/gamma{X})^{x}*([Y]*/gamma{Y})^{y} = kps{T}
+
+//calculate of gamma values
+		$charge_ion_1 = $data_ion[$_ion_1["symbol"]]["charge"];
+		$charge_ion_2 = $data_ion[$_ion_2["symbol"]]["charge"];
+		$alpha_ion_1 = $data_ion[$_ion_1["symbol"]]["alpha"];
+		$alpha_ion_2 = $data_ion[$_ion_1["symbol"]]["alpha"];
+
+Hukel equation
+$gamma_ion_1 = 10**((-0.51*($charge_ion_1**(2))*($mu**(1/2)))/(1+(($alpha_ion_1*($mu**(1/2)))/305)));
+
+		$gamma_ion_1 = 10**((-0.51*($charge_ion_1**(2))*($mu**(1/2)))/(1+(($alpha_ion_1*($mu**(1/2)))/305)));
+		$gamma_ion_2 = 10**((-0.51*($charge_ion_2**(2))*($mu**(1/2)))/(1+(($alpha_ion_2*($mu**(1/2)))/305)));
+		$gamma_comp = ($gamma_ion_1**$_ion_1["subindex"])*($gamma_ion_2**$_ion_2["subindex"]);
+
+
+
+[CI{X}] = Common Ion molar concentration
+
+Solubility{
+	case (CI == 0) && (/mu == 0):
+		A_{a}B_{b} <---/---> (a)A + (b)B  =====> kps = ([A]^{a})*([B]^{b})
+		kps = (a*S)^{a} * (b*S)^{b} = a^{a} * b^{b} * S^{a + b}
+		=====> S = [kps/(a^{a}*b^{b})]^{1/(a + b)}
+		break;
+	case ([CI{A}] != 0):
+		A_{a}B_{b} <---/---> (a)A + (b)B  =====> kps = ([A]^{a})*([B]^{b})
+		kps = (a*S)^{a} * (b*S)^{b} = a^{a} * b^{b} * ( S + [CI{A}] )^{a} * S^{b}
+		=====> S = [kps/(a^{a}*b^{b})]^{1/(a + b)}
+		break;
+	case ([CI{B}] != 0):
+		A_{a}B_{b} <---/---> (a)A + (b)B  =====> kps = ([A]^{a})*([B]^{b})
+		kps = a^{a} * b^{b} * (S)^{a} * (S + [CI{B}])^{b}
+		=====> S = [kps/(a^{a}*b^{b})]^{1/(a + b)}
+		break;
+	case (/mu != 0):
+		X_{x}Y_{y} <---/---> (x)X + (y)Y
+		=====> kps = _a_{X}^{x}*_a_{Y}^{y} = ([X]*/gamma{X})^{x}*([Y]*/gamma{Y})^{y}
+		=====> kps = ([X]^{x}*[Y]^{y})*/gamma{X}^{x}*/gamma{Y}^{y}
+		=====> kps = kps{C}*/gamma{X}^{x}*/gamma{Y}^{y}
+		break;
+}
+
+Revisar calculo de kps

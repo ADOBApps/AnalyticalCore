@@ -1,0 +1,206 @@
+{
+	"Al(OH)3":{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "",
+				"float": 3,
+				"expo": 10e-1
+			},
+			"1": {
+				"used": false,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-1
+			}
+		},
+		"latex": "Al(OH)_3"
+	},
+	"BaCO3" :{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "",
+				"float": 5.0,
+				"expo": 10e-9
+			},
+			"1": {
+				"used": false,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-0
+			}
+		},
+		"latex": "BaCO_3"
+	},
+	"BaCrO4" :{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "",
+				"float": 2.1,
+				"expo": 10e-10
+			},
+			"1": {
+				"used": false,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-0
+			}
+		},
+		"latex": "BaCrO_4"
+	},
+	"Ba(IO3)2" :{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "",
+				"float": 1.57,
+				"expo": 10e-9
+			},
+			"1": {
+				"used": false,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-0
+			}
+		},
+		"latex": "Ba(IO_3)_2"
+	},
+	"BaC2O4" :{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "",
+				"float": 1.0,
+				"expo": 10e-6
+			},
+			"1": {
+				"used": false,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-0
+			}
+		},
+		"latex": "BaC_{2}O_{4}"
+	},
+	"BaSO4" :{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "",
+				"float": 1.1,
+				"expo": 10e-10
+			},
+			"1": {
+				"used": false,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-0
+			}
+		},
+		"latex": "BaSO_{4}"
+	},
+	"CdCO3" :{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "",
+				"float": 1.8,
+				"expo": 10e-14
+			},
+			"1": {
+				"used": false,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-0
+			}
+		},
+		"latex": "CdCO_{3}"
+	},
+	"Cd(OH)2" :{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "",
+				"float": 4.5,
+				"expo": 10e-15
+			},
+			"1": {
+				"used": false,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-0
+			}
+		},
+		"latex": "Cd(OH)_{2}"
+	},
+	"CdC2O4" :{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "",
+				"float": 9.0,
+				"expo": 10e-8
+			},
+			"1": {
+				"used": false,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-0
+			}
+		},
+		"latex": "CdC_{2}O_{4}"
+	},
+	"CdS" :{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "",
+				"float": 1.0,
+				"expo": 10e-27
+			},
+			"1": {
+				"used": false,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-0
+			}
+		},
+		"latex": "CdS"
+	},
+	"CaCO3" :{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "Calcita",
+				"float": 4.5,
+				"expo": 10e-9
+			},
+			"1": {
+				"used": true,
+				"notes": "Aragonita",
+				"float": 6.0,
+				"expo": 10e-9
+			}
+		},
+		"latex": "CaCO_{3}"
+	},
+	"e.g" :{
+		"kps": {
+			"0":{
+				"used": true,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-1,
+			},
+			"1": {
+				"used": false,
+				"notes": "",
+				"float": 0.0,
+				"expo": 10e-0
+			}
+		},
+		"latex": ""
+	}
+}

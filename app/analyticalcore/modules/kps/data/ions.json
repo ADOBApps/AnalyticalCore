@@ -1,0 +1,500 @@
+{
+	"H":{
+		"mass": 0,
+		"charge": "1",
+		"alpha": "900",
+		"latex": "H^{+}"
+	},
+	"Li":{
+		"mass": 0,
+		"charge": "1",
+		"alpha": "600",
+		"latex": "Li^{+}"
+	},
+	"Na":{
+		"mass": 22.989,
+		"charge": "1",
+		"alpha": "450",
+		"latex": "Na^{+}"
+	},
+	"CdCl":{
+		"mass": 0,
+		"charge": "1",
+		"alpha": "450",
+		"latex": "CdCl^{+}"
+	},
+	"ClO2":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "",
+		"latex": "ClO_{2}^{-}"
+	},
+	"IO3":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "450",
+		"latex": "IO_{3}^{-}"
+	},
+	"HCO3":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "450",
+		"latex": "HCO_{3}^{-}"
+	},
+	"H2PO4":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "450",
+		"latex": "H_{2}PO_{4}^{-}"
+	},
+	"HSO3":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "450",
+		"latex": "HSO_{3}^{-}"
+	},
+	"H2AsO4":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "450",
+		"latex": "H_{2}AsO_{4}^{-}"
+	},
+	"OH":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "350",
+		"latex": "OH^{-}"
+	},
+	"F":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "350",
+		"latex": "F^{-}"
+	},
+	"SCN":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "350",
+		"latex": "SCN^{-}"
+	},
+	"OCN":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "350",
+		"latex": "OCN^{-}"
+	},
+	"HS":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "350",
+		"latex": "HS^{-}"
+	},
+	"ClO3":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "350",
+		"latex": "ClO_{3}^{-}"
+	},
+	"ClO4":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "350",
+		"latex": "ClO_{4}^{-}"
+	},
+	"BrO3":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "350",
+		"latex": "BrO_{3}^{-}"
+	},
+	"IO4":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "350",
+		"latex": "IO_{4}^{-}"
+	},
+	"MnO4":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "350",
+		"latex": "MnO_{4}^{-}"
+	},
+	"HCO2":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "350",
+		"latex": "HCO_{2}^{-}"
+	},
+	"CH3NH3":{
+		"mass": 0,
+		"charge": "1",
+		"alpha": "350",
+		"latex": "CH_{3}NH_{3}^{+}"
+	},
+	"(CH3)2NH2":{
+		"mass": 0,
+		"charge": "1",
+		"alpha": "350",
+		"latex": "(CH_{3})_{2}NH_{2}^{+}"
+	},
+	"K":{
+		"mass": 0,
+		"charge": "1",
+		"alpha": "300",
+		"latex": "K^{+}"
+	},
+	"Cl":{
+		"mass": 35.453,
+		"charge": "-1",
+		"alpha": "300",
+		"latex": "Cl^{-}"
+	},
+	"Br":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "300",
+		"latex": "Br^{-}"
+	},
+	"I":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "300",
+		"latex": "I^{-}"
+	},
+	"CN":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "300",
+		"latex": "CN^{-}"
+	},
+	"NO2":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "300",
+		"latex": "NO_{2}^{-}"
+	},
+	"NO3":{
+		"mass": 0,
+		"charge": "-1",
+		"alpha": "300",
+		"latex": "NO_{3}^{-}"
+	},
+	"Rb":{
+		"mass": 0,
+		"charge": "1",
+		"alpha": "250",
+		"latex": "Rb^{+}"
+	},
+	"Cs":{
+		"mass": 0,
+		"charge": "1",
+		"alpha": "250",
+		"latex": "Cs^{+}"
+	},
+	"NH4":{
+		"mass": 0,
+		"charge": "1",
+		"alpha": "250",
+		"latex": "NH_{4}^{+}"
+	},
+	"Tl":{
+		"mass": 0,
+		"charge": "1",
+		"alpha": "250",
+		"latex": "Tl^{+}"
+	},
+	"Ag":{
+		"mass": 0,
+		"charge": "1",
+		"alpha": "250",
+		"latex": "Ag^{+}"
+	},
+	"Mg":{
+		"mass": 24.305,
+		"charge": "2",
+		"alpha": "800",
+		"latex": "Mg^{2+}"
+	},
+	"Ca":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "600",
+		"latex": "Ca^{2+}"
+	},
+	"Cu":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "600",
+		"latex": "Cu^{2+}"
+	},
+	"Zn":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "600",
+		"latex": "Zn^{2+}"
+	},
+	"Sn":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "600",
+		"latex": "Sn^{2+}"
+	},
+	"Mn":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "600",
+		"latex": "Mn^{2+}"
+	},
+	"Fe":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "600",
+		"latex": "Fe^{2+}"
+	},
+	"Ni":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "600",
+		"latex": "Ni^{2+}"
+	},
+	"Co":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "600",
+		"latex": "Co^{2+}"
+	},
+	"Sr":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "500",
+		"latex": "Sr^{2+}"
+	},
+	"Ba":{
+		"mass": 137.3277,
+		"charge": "2",
+		"alpha": "500",
+		"latex": "Ba^{2+}"
+	},
+	"Cd":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "500",
+		"latex": "Cd^{2+}"
+	},
+	"Hg":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "500",
+		"latex": "Hg^{2+}"
+	},
+	"S":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "500",
+		"latex": "S^{2-}"
+	},
+	"S2O4":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "500",
+		"latex": "S_{2}O_{4}^{2-}"
+	},
+	"WO4":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "500",
+		"latex": "WO_{4}^{2-}"
+	},
+	"Pb":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "450",
+		"latex": "Pb^{2+}"
+	},
+	"CO3":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "450",
+		"latex": "CO_{3}^{2-}"
+	},
+	"SO3": {
+		"mass": 80.0632,
+		"charge": "-2",
+		"alpha": "450",
+		"latex": "SO_{3}^{2-}"
+	},
+	"MoO4":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "450",
+		"latex": "MoO_{4}^{2-}"
+	},
+	"Co(NH3)5Cl":{
+		"mass": 0,
+		"charge": "+2",
+		"alpha": "450",
+		"latex": "Co(NH_{3})_{5}Cl^{2+}"
+	},
+	"Fe(CN)5NO":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "450",
+		"latex": "Fe(CN)_{5}NO^{2-}"
+	},
+	"C2O4":{
+		"mass": 88.0190,
+		"charge": "-2",
+		"alpha": "450",
+		"latex": "C_{2}O_{4}^{2-}"
+	},
+	"Hg2":{
+		"mass": 0,
+		"charge": "2",
+		"alpha": "400",
+		"latex": "Hg_{2}^{2+}"
+	},
+	"SO4":{
+		"mass": 96.0626,
+		"charge": "-2",
+		"alpha": "400",
+		"latex": "SO_{4}^{2-}"
+	},
+	"S2O3":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "400",
+		"latex": "S_{2}O_{3}^{2-}"
+	},
+	"S2O6":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "400",
+		"latex": "S_{2}O_{6}^{2-}"
+	},
+	"S2O8":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "400",
+		"latex": "S_{2}O_{8}^{2-}"
+	},
+	"SeO4":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "400",
+		"latex": "SeO_{4}^{2-}"
+	},
+	"CrO4":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "400",
+		"latex": "CrO_{4}^{2-}"
+	},
+	"HPO4":{
+		"mass": 0,
+		"charge": "-2",
+		"alpha": "400",
+		"latex": "HPO_{4}^{2-}"
+	},
+	"Al":{
+		"mass": 0,
+		"charge": "3",
+		"alpha": "900",
+		"latex": "Al^{3+}"
+	},
+	"Fe":{
+		"mass": 0,
+		"charge": "3",
+		"alpha": "900",
+		"latex": "Fe^{3+}"
+	},
+	"Cr":{
+		"mass": 0,
+		"charge": "3",
+		"alpha": "900",
+		"latex": "Cr^{3+}"
+	},
+	"Sc":{
+		"mass": 0,
+		"charge": "3",
+		"alpha": "900",
+		"latex": "Sc^{3+}"
+	},
+	"Y":{
+		"mass": 0,
+		"charge": "3",
+		"alpha": "900",
+		"latex": "Y^{3+}"
+	},
+	"In":{
+		"mass": 0,
+		"charge": "3",
+		"alpha": "900",
+		"latex": "In^{3+}"
+	},
+	"PO4":{
+		"mass": 0,
+		"charge": "-3",
+		"alpha": "400",
+		"latex": "PO_{4}^{3-}"
+	},
+	"Fe(CN)6":{
+		"mass": 0,
+		"charge": "-3",
+		"alpha": "400",
+		"latex": "Fe(CN)_{6}^{3-}"
+	},
+	"Cr(NH3)6":{
+		"mass": 0,
+		"charge": "3",
+		"alpha": "400",
+		"latex": "Cr(NH_{3})_{6}^{3+}"
+	},
+	"Co(NH3)6":{
+		"mass": 0,
+		"charge": "3",
+		"alpha": "400",
+		"latex": "Co(NH_{3})_{6}^{3+}"
+	},
+	"Co(NH3)5H2O":{
+		"mass": 0,
+		"charge": "3",
+		"alpha": "400",
+		"latex": "Co(NH_{3})_{5}H_{2}O^{3+}"
+	},
+	"Th":{
+		"mass": 0,
+		"charge": "4",
+		"alpha": "1100",
+		"latex": "Th^{4+}"
+	},
+	"Zr":{
+		"mass": 0,
+		"charge": "4",
+		"alpha": "1100",
+		"latex": "Zr^{4+}"
+	},
+	"Ce":{
+		"mass": 0,
+		"charge": "4",
+		"alpha": "1100",
+		"latex": "Ce^{4+}"
+	},
+	"Sn":{
+		"mass": 0,
+		"charge": "4",
+		"alpha": "1100",
+		"latex": "Sn^{4+}"
+	},
+	"Fe(CN)6":{
+		"mass": 0,
+		"charge": "-4",
+		"alpha": "500",
+		"latex": "Fe(CN)_{6}^{4-}"
+	},
+	"":{
+		"mass": 0,
+		"charge": "",
+		"alpha": "",
+		"latex": ""
+	}
+}

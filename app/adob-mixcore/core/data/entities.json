@@ -1,0 +1,185 @@
+{
+	"math":{
+		"for_all": {
+			"entity_name": "&forall;"
+		},
+		"partial": {
+			"entity_name": "&part;"
+		},
+		"exists": {
+			"entity_name": "&exist;"
+		},
+		"empty": {
+			"entity_name": "&empty;"
+		},
+
+		"nabla": {
+			"entity_name": "&nabla;"
+		},
+		"sum": {
+			"entity_name": "&sum;"
+		},
+		"prod": {
+			"entity_name": "&prod;"
+		},
+		"square_root": {
+			"entity_name": "&radic;"
+		},
+		"or": {
+			"entity_name": "&or;"
+		},
+		"and": {
+			"entity_name": "&and;"
+		},
+		"proportional_to": {
+			"entity_name": "&prop;"
+		},
+		"infinity": {
+			"entity_name": "&infin;"
+		},
+		"integral": {
+			"entity_name": "&int;"
+		},
+
+		"therefore": {
+			"entity_name": "&there4;"
+		},
+		"almost_equal": {
+			"entity_name": "&asymp;"
+		},
+		"equivalent": {
+			"entity_name": "&equiv;"
+		},
+		"perpendicular": {
+			"entity_name": "&perp;"
+		}
+	},
+	"greek":{
+		"uppercase": {
+			"gamma": {
+				"entity_name": "&Gamma;"
+			},
+			"delta": {
+				"entity_name": "&;"
+			},
+			"theta": {
+				"entity_name": "&Theta;"
+			},
+			"pi": {
+				"entity_name": "&Pi;"
+			},
+			"sigma": {
+				"entity_name": "&Sigma;"
+			},
+			"phi": {
+				"entity_name": "&Phi;"
+			},
+			"psi": {
+				"entity_name": "&Psi;"
+			},
+			"omega": {
+				"entity_name": "&Omega;"
+			}
+		},
+		"lowercase":{
+			"alpha": {
+				"entity_name": "&alpha;"
+			},
+			"beta": {
+				"entity_name": "&beta;"
+			},
+			"gamma": {
+				"entity_name": "&gamma;"
+			},
+			"delta": {
+				"entity_name": "&delta;"
+			},
+			"epsilon": {
+				"entity_name": "&epsilon;"
+			},
+			"zeta": {
+				"entity_name": "&zeta;"
+			},
+			"eta": {
+				"entity_name": "&eta;"
+			},
+			"theta": {
+				"entity_name": "&theta;"
+			},
+			"iota": {
+				"entity_name": "&iota;"
+			},
+			"kappa": {
+				"entity_name": "&kappa;"
+			},
+			"lambda": {
+				"entity_name": "&lambda;"
+			},
+			"mu": {
+				"entity_name": "&mu;"
+			},
+			"nu": {
+				"entity_name": "&nu;"
+			},
+			"xi": {
+				"entity_name": "&xi;"
+			},
+			"omicron": {
+				"entity_name": "&omicron;"
+			},
+			"pi": {
+				"entity_name": "&pi;"
+			},
+			"sigmaf": {
+				"entity_name": "&sigmaf;"
+			},
+			"sigma": {
+				"entity_name": "&sigma;"
+			},
+			"tau": {
+				"entity_name": "&tau;"
+			},
+			"upsilon": {
+				"entity_name": "&upsilon;"
+			},
+			"phi": {
+				"entity_name": "&phi;"
+			},
+			"chi": {
+				"entity_name": "&chi;"
+			},
+			"psi": {
+				"entity_name": "&psi;"
+			},
+			"omega": {
+				"entity_name": "&omega;"
+			},
+			"": {
+				"entity_name": "&;"
+			}
+		}
+	},
+	"other":{
+		"left_arrow": {
+			"entity_name": "&larr;"
+		},
+		"up_arrow": {
+			"entity_name": "&uarr;"
+		},
+		"right_arrow": {
+			"entity_name": "&rarr;"
+		},
+		"down_arrow": {
+			"entity_name": "&darr;"
+		},
+		"_arrow": {
+			"entity_name": "&;"
+		},
+		"enter_arrow": {
+			"entity_name": "&crarr;"
+		},
+		"left_right_arrow": {
+			"entity_name": "&harr;"
+		}
+	}
+}

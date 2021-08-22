@@ -1,0 +1,11 @@
+{
+	"bootstrap-icons": {
+		"URL":"https://icons.getbootstrap.com/",
+		"bootstrap-version": "5.0.2"
+	},
+	"glyphicons": {
+		"URL": "https://getbootstrap.com/docs/3.3/components/",
+		"bootstrap-version": "3.3"
+	}
+
+}

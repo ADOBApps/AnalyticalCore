@@ -1,0 +1,265 @@
+{
+	"HTMLElement": {
+		"global-attribute": [
+			"id",
+			"className",
+			"hidden",
+			"accesskey",
+			"dir",
+			"dragable",
+			"dropzone",
+			"style"
+		],
+		"head":{
+			"base":{
+				"attribute":{
+					"href": "URL",
+					"target": [
+						"_blank",
+						"_parent",
+						"_self",
+						"_top",
+						"framename"	
+					]
+				}
+			},
+			"link":{
+				"attribute":{
+					"href": "URL",
+					"hreflang": "lang_code",
+					"media": [
+						"screen",
+						"tty",
+						"tv",
+						"projection",
+						"handheld",
+						"print",
+						"braille",
+						"aural",
+						"all"
+					],
+					"rel": [
+						"alternate",
+						"appendix",
+						"bookmark",
+						"chapter",
+						"contents",
+						"copyright",
+						"glossary",
+						"help",
+						"home",
+						"index",
+						"next",
+						"prev",
+						"section",
+						"start",
+						"stylesheet",
+						"subsection"
+					],
+					"sizes":[
+						"number",
+						"any"
+					],
+					"type": "media_type"
+				}
+			},
+			"meta":{
+				"attribute":{
+					"charset": "charset",
+					"http-equiv":[
+						"content-type",
+						"default-style",
+						"refresh"
+					],
+					"name": [
+						"aplication-name",
+						"author",
+						"description",
+						"generator",
+						"keywords"
+					],
+					"content": "texte"
+				}
+			},
+			"script":{
+				"attribute":{
+					"async": "async",
+					"charset": "charset",
+					"defer": "defer",
+					"src": "URL",
+					"type": "media_type"
+				}
+			},
+			"style":{
+				"attribute":{
+					"type": "text/css",
+					"media": [
+						"screen",
+						"tty",
+						"tv",
+						"projection",
+						"handheld",
+						"print",
+						"braille",
+						"aural",
+						"all"
+					],
+					"scoped": "scoped"
+				}
+			},
+			"title":{
+				"attribute":{
+					"text": "text"
+				}
+			},
+		},
+		"form":{
+			"button":{
+				"attribute": {
+					"type": [
+						"button",
+						"reset",
+						"submit"
+					],
+					"name": "_name",
+					"value": "text",
+					"disabled": "_disable"
+				}
+			},
+			"input": {
+				"attribute":{
+					"autocomplete":[
+						"on",
+						"off"
+					],
+					"autofocus": "autofocus",
+					"checked":{
+						"value": "checked",
+						"for": "radio || checkbox"
+					},
+					"height": "pixel || %",
+					"max": "number",
+					"maxlength": "number",
+					"min": "number",
+					"multiple": "multiple",
+					"placeholder": "text",
+					"readonly": "readonly",
+					"required": "required",
+					"size": "number",
+					"type":[
+						"button",
+						"checkbox",
+						"color",
+						"date",
+						"datetime",
+						"email",
+						"file",
+						"hidden",
+						"image",
+						"month",
+						"number",
+						"password",
+						"radio",
+						"range",
+						"reset",
+						"search",
+						"submit",
+						"tel",
+						"text",
+						"time",
+						"url",
+						"week"
+					],
+					"value": "_value",
+					"width": "pixel || %",
+				}
+			},
+			"textarea": {
+				"attribute":{
+					"cols": "number",
+					"rows": "number",
+					"autofocus": "autofocus",
+					"disabled": "disabled",
+					"maxlength": "number",
+					"name": "text",
+					"placeholder": "text",
+					"readonly": "readonly",
+					"required": "required",
+					"wrap": [
+						"hard",
+						"soft"
+					]
+				}
+			}
+		},
+		"structural": {
+			"article": {"attribute": "global-attribute"},
+			"aside": {"attribute": "global-attribute"},
+				"blockquote": {
+				"attribute":{
+					"cite": "URL"
+				}
+			},
+			"body": {"attribute": "global-attribute"},
+			"br": {"attribute": "global-attribute"},
+			"dl": {
+				"attribute":{
+					"open": "open"
+				}
+			},
+			"div": {"attribute": "global-attribute"},
+			"figcaption": {"attribute": "global-attribute"},
+			"figure": {"attribute": "global-attribute"},
+			"footer": {"attribute": "global-attribute"},
+			"h1": {"attribute": "global-attribute"},
+			"h2": {"attribute": "global-attribute"},
+			"h3": {"attribute": "global-attribute"},
+			"h4": {"attribute": "global-attribute"},
+			"h5": {"attribute": "global-attribute"},
+			"h6": {"attribute": "global-attribute"},
+			"head": {"attribute": "global-attribute"},
+			"header": {"attribute": "global-attribute"},
+			"hgroup": {"attribute": "global-attribute"},
+			"hr": {"attribute": "global-attribute"},
+			"html": {
+				"attribute": {
+					"manifest": "URL",
+					"xmlns": "xml_namespace"
+				}
+			},
+			"mark": {"attribute": "global-attribute"},
+			"meter": {
+				"attribute": {
+					"form": "form_id",
+					"high": "number",
+					"low": "number",
+					"max": "number",
+					"min": "number",
+					"optimum": "number",
+					"value": "number"
+				}
+			},
+			"nav": {"attribute": "global-attribute"},
+			"p": {"attribute": "global-attribute"},
+			"progress": {
+				"attribute": {
+					"max": "number",
+					"value": "number"
+				}
+			},
+			"rp": {"attribute": "global-attribute"},
+			"rt": {"attribute": "global-attribute"},
+			"ruby": {"attribute": "global-attribute"},
+			"section": {"attribute": "global-attribute"},
+			"summary": {"attribute": "global-attribute"},
+			"time": {
+				"attribute": {
+					"datetime": "datetime"
+				}
+			},
+			"wbr": {"attribute": "global-attribute"}
+		}
+
+
+	}
+}

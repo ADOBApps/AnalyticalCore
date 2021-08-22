@@ -1,0 +1,61 @@
+{
+
+	"core": {
+		"version": "1.0",
+
+		"bootstrap": {
+			"version-base": "3.3",
+			"js-version": "3.3",
+			"css-version-base": "3.3",
+			"css-version-icons": "5.0.2",
+
+			"glyphicons": {
+				"URL": "https://getbootstrap.com/docs/3.3/components/",
+				"bootstrap-version": "3.3"
+			},
+
+			"bootstrap-icons": {
+				"URL": "https://icons.getbootstrap.com/",
+				"bootstrap-version": "5.0.2"
+			},
+
+			"require": {
+				"jquery": "1.11.3.min",
+				"jQuery Easing": "1.3"
+			}
+		},
+
+		"jquery": {
+			"version-use": "1.11.3.min",
+			"version-extra": "1.10.2",
+			"jquery-ui": {
+				"version": "1.11.4",
+				"date": "2015-03-11"
+			}
+		},
+
+		"cross-problems": {
+			"ui-admin": {
+				"tooltip()": "use for bootstrap and jquery-ui"
+			}
+		},
+
+		"use":{
+			"progressbar": "jquery-ui",
+			"tooltip": "bootstrap || jquery",
+			"tabs": "bootstrap || jquery",
+			"menu": "bootstrap || jquery",
+			"alerts": "bootstrap || jquery",
+			"only_exits":{
+				"datepicker": "jquery-ui",
+				"dialog": "jquery-ui",
+				"autocomplete": "jquery-ui",
+				"accordion": "jquery-ui",
+				"spinner": "jquery-ui",
+				"slider":"jquery-ui",
+				"radioset": "jquery-ui",
+				"modal": "bootstrap"
+			}
+		}
+	}
+}
