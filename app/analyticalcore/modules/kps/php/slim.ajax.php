@@ -113,7 +113,7 @@ $app->post("/ajax/kps_calc/", function(Request $request, Response $response, $ar
 		$charge_ion_1 = $data_ion[$_ion_1["symbol"]]["charge"];
 		$charge_ion_2 = $data_ion[$_ion_2["symbol"]]["charge"];
 		$alpha_ion_1 = $data_ion[$_ion_1["symbol"]]["alpha"];
-		$alpha_ion_2 = $data_ion[$_ion_1["symbol"]]["alpha"];
+		$alpha_ion_2 = $data_ion[$_ion_2["symbol"]]["alpha"];
 		$gamma_ion_1 = 10**((-0.51*($charge_ion_1**(2))*($mu**(1/2)))/(1+(($alpha_ion_1*($mu**(1/2)))/305)));
 		$gamma_ion_2 = 10**((-0.51*($charge_ion_2**(2))*($mu**(1/2)))/(1+(($alpha_ion_2*($mu**(1/2)))/305)));
 		$gamma_comp = ($gamma_ion_1**$_ion_1["subindex"])*($gamma_ion_2**$_ion_2["subindex"]);

@@ -277,19 +277,23 @@
 					<!-- Separador -->
 
 					<!--btn-toolbar-->
-						<div class="form-group">
-							<div class="btn-toolbar" role="toolbar" id="s-kps-virtkey">
+						<div class="form-group" id="s-kps-virtkey">
+							<div class="btn-toolbar" role="toolbar">
 								<div class="btn-group">
 									<button class="btn btn-primary" id="s-kps-btn_close">&times;</button>
 									<button class="btn btn-primary" id="s-kps-btn_inp-exp">x^{}</button>
 									<button class="btn btn-primary" id="s-kps-btn_inp-sub">X_{}</button>
 									<button class="btn btn-primary" id="s-kps-btn_inp-10x">10^{}</button>
-									<button type="sumit" class="sumit btn btn-primary" id="s-kps-btn_calc" data-loading-text="Calculando">Calcular</button>
+									<button type="sumit" class="sumit btn btn-primary" id="s-kps-btn_inp-go" data-loading-text="Calculando">Ok</button>
+								</div>
+								<div class="input-group col-xm-6" id="s-kps-section-mu">
+									<span id="s-kps-addon-inp_virtkey" class="input-group-addon">&delta;</span>
+									<input type="text" id="s-kps-inp_virtkey" class="form-control macondo" value="0.0" ariadescribedby="s-kps-addon-inp_virtkey">
 								</div>
 							</div>
 						</div>
 					<!--btn-toolbar-->
-					</form>
+					<!-- </form> -->
 					<!--Alert section-->
 					<div class="row">
 						<div class="col-sm-6" id="alert-kps-section">
@@ -301,8 +305,10 @@
 				<!-- modal-body-->
 				<!-- modal-footer-->
 				<div class="modal-footer"> 
+					<button type="sumit" class="sumit btn btn-primary" id="s-kps-btn_calc" data-loading-text="Calculando">Calcular</button>
 					<button type="button" class="btn btn-default azul macondo" data-dismiss="modal">Close</button> 
 				</div> 
+				<!--  --></form>
 				<!-- modal-footer-->
 			</div> 
 		</div> 
